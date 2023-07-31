@@ -16,7 +16,7 @@ I'm Bilal Nasir, a passionate student eager to learn and master web development.
 
 ## Contact Me
 
-- 📧 Email: bilalnasirkhan9@email.com
+- 📧 Email: bilalnasirkhan9@gmail.com
 - 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/bilal-nasir-engage/)
 - 🐦 Twitter: [Twitter Handle](https://twitter.com/bilalnasirkhan9)
 
