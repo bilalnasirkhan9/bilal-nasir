@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**bilalnasirkhan9/bilalnasirkhan9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Bilal Nasir, a passionate student eager to learn and master web development.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning HTML, CSS, JavaScript, and other web development technologies.
+- 🎓 Studying to become a skilled full-stack web developer.
+- 💡 Interested in building user-friendly and visually appealing web applications.
+
+## My Projects
+
+- 🚀 [Project 1](https://github.com/bilalnasirkhan9/Cynthia-Ugwu) Myntra: Revolutionizing e-commerce with Mynta: An innovative student-led project.
+- 🚀 [Project 2](https://github.com/bilalnasirkhan9/Duo-Studio) Duo Studio: Unleashing the Web Wizardry: A Student Project on Mastering Web Development. 
+- ...
+
+## Contact Me
+
+- 📧 Email: your@email.com
+- 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/bilal-nasir-engage/)
+- 🐦 Twitter: [Twitter Handle](https://twitter.com/bilalnasirkhan9)
+
+Feel free to connect with me! I'm always open to collaborations and learning from others.
