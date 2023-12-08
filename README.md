@@ -11,8 +11,6 @@ I'm Bilal Nasir, a passionate student eager to learn and master web development.
 ## My Projects
 
 - 🚀 [Project 1](https://bilalnasirkhan9.github.io/Cynthia-Ugwu/) Cynthia Ugwu: An innovative student-led project.
-- 🚀 [Project 2](https://bilalnasirkhan9.github.io/Duo-Studio/) Duo Studio: Unleashing the Web Wizardry: A Student Project on Mastering Web Development. 
-- ...
 
 ## Contact Me
 
